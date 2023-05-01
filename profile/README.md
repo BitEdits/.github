@@ -42,7 +42,7 @@
 
 <P><b>Публікації</b></p>
 
-<p>1. <a href="https://asmedit.github.io/be/">Домашня сторінка проекту</a><br>
-   2. <a href="https://tonpa.guru/stream/2022/2022-06-07 8086 XT дизасемблер.htm">XT: 8086 Дизасемблер</a><br>
-   3. <a href="https://tonpa.guru/stream/2022/2022-06-11 A64 Disassembler.htm">ARM64: Armv9.2 Дизасемблер</a><br>
-/p>
+<p>[1]. <a href="https://asmedit.github.io/be/">Домашня сторінка проекту</a><br>
+   [2]. <a href="https://tonpa.guru/stream/2022/2022-06-07 8086 XT дизасемблер.htm">XT: 8086 Дизасемблер</a><br>
+   [3]. <a href="https://tonpa.guru/stream/2022/2022-06-11 A64 Disassembler.htm">ARM64: Armv9.2 Дизасемблер</a><br>
+</p>
