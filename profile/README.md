@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-<p align="center"><strong> BE: InfoSec Binary Hex Editor with Disassemblers</strong></p>
+<p align="center"><strong> InfoSec Binary Hex Editor with Disassemblers</strong></p>
 
 <p>Є цілий клас бінарних редакторів, серед яких 010 Editor, beye, hiew, Binary Ninja, WinHex, що мають окрім HEX режиму — режим дизасемблера.
 Такі програми зручно використовати для дослідження ROM файлів, прошивок дронів, телефонів, BIOS, у якості систем накладання патчів,
