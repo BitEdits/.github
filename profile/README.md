@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-<p align="center"><strong> InfoSec Binary Hex Editor with Disassemblers</strong></p>
+<p align="center"><strong> InfoSec Binary Hex Editor with Retro Disassemblers</strong></p>
 
 <P><b>Синопсис</b></p>
 
