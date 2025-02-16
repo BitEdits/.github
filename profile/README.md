@@ -45,4 +45,8 @@ Note: The development of this project and all subprojects are for learning purpo
    [2]. <a href="https://tonpa.guru/stream/2020/2020-10-10 FPGA археологія.htm">FPGA археологія</a><br>
    [2]. <a href="https://tonpa.guru/stream/2022/2022-06-07 8086 XT дизасемблер.htm">XT: 8086 Дизасемблер</a><br>
    [3]. <a href="https://tonpa.guru/stream/2022/2022-06-11 A64 Disassembler.htm">ARM64: Armv9.2 Дизасемблер</a><br>
+   [4]. <a href="https://tonpa.guru/stream/2020/2020-09-13 Процесори Intel.htm">Процесори Intel</a><br>
+   [5]. <a href="https://game.5ht.co">Ретроконсолі</a><br>
+   [6]. <a href="https://retro.5ht.co">Ретрокомпіки</a><br>
+   [7]. <a href="https://top.5ht.co">Компіки Сохацького</a><br>
 </p>
