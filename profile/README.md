@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-<p align="center"><strong> InfoSec Binary Hex Editor with Retro Disassemblers</strong></p>
+<p align="center"><strong>Sokhatsky Commander, Binary Editor, TeX Processor</strong></p>
 
 <P><b>Синопсис</b></p>
 
