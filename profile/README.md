@@ -60,5 +60,5 @@
    [4]. <a href="https://tonpa.guru/stream/2020/2020-09-13 Процесори Intel.htm">Процесори Intel</a><br>
    [5]. <a href="https://game.5ht.co">Ретроконсолі</a><br>
    [6]. <a href="https://retro.5ht.co">Ретрокомпіки</a><br>
-   [7]. <a href="https://top.5ht.co">Компіки Сохацького</a><br>
+   [7]. <a href="https://computer.5ht.co">Компіки Сохацького</a><br>
 </p>
