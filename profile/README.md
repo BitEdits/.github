@@ -8,7 +8,19 @@
 
 <p align="center"><strong>Sokhatsky Commander, Binary Editor, TeX Processor</strong></p>
 
-<P><b>Синопсис</b></p>
+<P><b>Sokhatsky Commander</b></p>
+
+<p>Є цілий клас файлових менеджеріву, серед яких Norton Commander, Volkov Commander (Всеволода Волкова), Demos Commander (Серія Вакуленко), Dos Navigator, Total Commander. Такі програми зручно використовати для навігації по файловій системі і впорядкуванню бібліотек. Фактично це воно (!), але:</p>
+
+<p>
+— Без залежностей, потрібно тільки C99/POSIX які є стандартом<br>
+— Без використання ncurses та S-Lang, тільки termios<br>
+— Модальність редагування HEX і редактор BE: Binary Editor<br>
+— Маленький розмір (бінарі 35KB, рядків 1KLOC, 5 С файлів на 64KB)<br>
+— Історія команд
+</p>
+
+<P><b>Binary Editor</b></p>
 
 <p>Є цілий клас бінарних редакторів, серед яких 010 Editor, beye, hiew, Binary Ninja, WinHex, що мають окрім HEX режиму — режим дизасемблера.
 Такі програми зручно використовати для дослідження ROM файлів, прошивок дронів, телефонів, BIOS, у якості систем накладання патчів,
