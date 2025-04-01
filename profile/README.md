@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-<p align="center"><strong>Sokhatsky Commander, Binary Editor, TeX Processor</strong></p>
+<p align="center"><strong>Sokhatsky Commander, Binary Editor, Text Processor</strong></p>
 
 <P><b>Sokhatsky Commander</b></p>
 
