@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Sokhatsky Commander, Terminal Vision, Binary Editor</strong></p>
 
-<P><b>Sokhatsky Commander</b></p>
+<P><b>SC: Sokhatsky Commander</b></p>
 
 <p>Є цілий клас файлових менеджеріву, серед яких Norton Commander, Volkov Commander (Всеволода Волкова), Demos Commander (Серія Вакуленко),
     Dos Navigator, Total Commander, FAR Manager. Такі програми розширюють класичні шели з історією команд додатковими можливостями:
@@ -24,7 +24,7 @@
 — Робота під Windows, Linux, Mac.<br>
 </p>
 
-<P><b>Terminal Vision</b></p>
+<P><b>TV: Terminal Vision</b></p>
 
 <p>Простий текстовий редактор з IBM CUA Mode, який зазвичай постачається з командерами.</p>
 
@@ -35,7 +35,7 @@
 — Простіше ніж в nano меню для збереження після редагування;<br>
 </p>
 
-<P><b>Binary Editor</b></p>
+<P><b>BE: Binary Editor</b></p>
 
 <p>Є цілий клас бінарних редакторів, серед яких 010 Editor, beye, hiew, Binary Ninja, WinHex, що мають окрім HEX режиму — режим дизасемблера.
 Такі програми зручно використовати для дослідження ROM файлів, прошивок дронів, телефонів, BIOS, у якості систем накладання патчів,
