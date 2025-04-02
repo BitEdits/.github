@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-<p align="center"><strong>Sokhatsky Commander, Binary Editor, Text Processor</strong></p>
+<p align="center"><strong>Sokhatsky Commander, Binary Editor, Text Vision</strong></p>
 
 <P><b>Sokhatsky Commander</b></p>
 
@@ -22,6 +22,17 @@
 — Історія команд і їх виводів;<br>
 — Коректна передача управління терімінальним програмам і його повернення;<br>
 — Робота під Windows, Linux, Mac.<br>
+</p>
+
+<P><b>Terminal Vision</b></p>
+
+<p>Простий текстовий редактор з IBM CUA Mode, який зазвичай постачається з командерами.</p>
+
+<p>
+— Без залежностей, потрібно тільки C99/POSIX які є стандартом;<br>
+— Без використання ncurses та S-Lang, тільки termios;<br>
+— Режим перегляду і режим редагування;<br>
+— Простіше ніж в nano меню для збереження після редагування;<br>
 </p>
 
 <P><b>Binary Editor</b></p>
