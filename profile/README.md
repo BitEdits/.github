@@ -1,10 +1,8 @@
 
 <p align="center">
-<picture>
 <img src="https://5ht.co/sc/img/sc.png" width=100>
 <img src="https://5ht.co/tv/img/tv.png" width=100>
 <img src="https://5ht.co/be/img/be.png" width=100>
-</picture>
 </p>
 
 <p align="center"><strong>Sokhatsky Commander, Terminal Vision, Binary Editor</strong></p>
