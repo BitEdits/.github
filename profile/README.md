@@ -54,6 +54,7 @@
 — Третя лінія дизасемблерів: PDP-11, 8080/8085/Z80/MSX, 6502/C64/Atari, HC08/HC11;<br>
 — Четверта лінія дизасемблерів: CLR, JVM, BEAM, EFI Byte Code.</p>
 
+<br><center>&dot;</center>
 
 <p align="center">
 <img src="https://5ht.co/sc/img/sc.png" width=100>
@@ -61,6 +62,8 @@
 <img src="https://5ht.co/be/img/be.png" width=100>
 </p>
 
+<br><center>&dot;</center>
+   
 <P><b>Публікації</b></p>
 
 <p>[1]. <a href="https://5ht.co/be/">Домашня сторінка проекту</a><br>
