@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-<p align="center"><strong>Sokhatsky Commander, Binary Editor, Text Vision</strong></p>
+<p align="center"><strong>Sokhatsky Commander, Binary Editor, Terminal Vision</strong></p>
 
 <P><b>Sokhatsky Commander</b></p>
 
