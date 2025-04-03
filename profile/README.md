@@ -61,7 +61,7 @@
 <img src="https://5ht.co/sc/img/sc.png" width=100>
 <img src="https://5ht.co/tv/img/tv.png" width=100>
 <img src="https://5ht.co/be/img/be.png" width=100>
-<img src="https://5ht.co/sh/img/sh.png" width=100>
+<img src="https://5ht.co/sh/img/sh.png" width=100 alt=sh>
 </p>
 
 <p align="center">&dot;</pr>
