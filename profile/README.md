@@ -58,10 +58,10 @@
 <br><p align="center">&dot;</p>
 
 <p align="center">
-<img src="https://5ht.co/sc/img/sc.png" width=100>
-<img src="https://5ht.co/tv/img/tv.png" width=100>
-<img src="https://5ht.co/be/img/be.png" width=100>
-<img src="https://5ht.co/sh/img/sh.png?v=1" width=100>
+<a href="https://sc.5ht.co/"><img src="https://5ht.co/sc/img/sc.png" width=100></a>
+<a href="https://tv.5ht.co/"><img src="https://5ht.co/tv/img/tv.png" width=100></a>
+<a href="https://be.5ht.co/"><img src="https://5ht.co/be/img/be.png" width=100></a>
+<a href="https://sh.5ht.co/"><img src="https://5ht.co/sh/img/sh.png?v=1" width=100></a>
 </p>
 
 <p align="center">&dot;</pr>
