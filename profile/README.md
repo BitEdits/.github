@@ -59,7 +59,7 @@
 
 <P>Верифікований POSIX шел.</P>
 
-p>— Робота під Windows, Linux, Mac, BSD;<br>
+<p>— Робота під Windows, Linux, Mac, BSD;<br>
 — Без залежностей, потрібно тільки C99/POSIX які є стандартом;<br>
 — Формальна BNF нотація в LR(1);<br>
 — Вбудовані і зовнішні команди;<br>
@@ -69,6 +69,15 @@ p>— Робота під Windows, Linux, Mac, BSD;<br>
 — Формальна модель на Coq (верифікація CIC/MLTT);<br>
 — Генерація C з Coq/OCaml;<br>
 — Перший верифікований POSIX shell в світі.<br>
+</p>
+
+<p><b>RT: Skynet Run-Time</b></p>
+
+<P>Операційна система реального часу.</P>
+
+<p>— ANSI C99 POSIX RTOS for Synrc SKYNET application;<br>
+— Supports a limited curated set of hardware platforms and plain make buildsystem;<br>
+— The size of zipped source distribution is limited to 2.88MB (~200K LOC).<br>
 </p>
 
 <br><p align="center">&dot;</p>
