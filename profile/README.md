@@ -44,7 +44,7 @@
 — Третя лінія дизасемблерів: PDP-11, 8080/8085/Z80/MSX, 6502/C64/Atari, HC08/HC11;<br>
 — Четверта лінія дизасемблерів: CLR, JVM, BEAM, EFI Byte Code.</p>
 
-<P><b>TV: Terminal Vision</b></p>
+<P><b>TV: Text Vision</b></p>
 
 <p>Простий текстовий редактор з IBM CUA Mode, який зазвичай постачається з командерами.</p>
 
