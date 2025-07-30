@@ -55,7 +55,7 @@
 — Простіше ніж в nano меню для збереження після редагування;<br>
 </p>
 
-<p><b></b>SH: Verified Shell</b></p>
+<p><b>SH: Verified Shell</b></p>
 
 <P>Верифікований POSIX шел.</P>
 
