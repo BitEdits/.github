@@ -1,4 +1,4 @@
-<p align="center"><strong>Sokhatsky Commander, Terminal Vision, Binary Editor</strong></p>
+<p align="center"><strong>Sokhatsky Commander, Terminal Vision, Binary Editor, Skynet</strong></p>
 
 <P><b>SC: Sokhatsky Commander</b></p>
 
