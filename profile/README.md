@@ -28,7 +28,7 @@
 * <a href="https://sc.5ht.co"><b>sc</b></a> — Sokhatsky Commander — сучасний двохпанельний файловий менеджер у традиції Джона Соча.
 * <a href="https://be.5ht.co"><b>be</b></a> — Binary Editor — InfoSec hex-редактор з повноцінним дизасемблером. 
 * <a href="https://tv.5ht.co"><b>tv</b></a> — Terminal Vision — простий текстовий редактор у стилі IBM CUA.
-* <a href="https://sh.5ht.co"><b>sh</b></a> — Verified Shell — перший у світі формально верифікований POSIX-сумісний шел для Windows, Linux, macOS, BSD.
+* <a href="https://sh.5ht.co"><b>sh</b></a> — Verified Shell — формально верифікований POSIX-сумісний шел для Windows, Linux, macOS, BSD.
 * <a href="https://skynetrt.github.io/rt/"><b>rt</b></a> — Skynet Run-Time — мінімалістична POSIX-сумісна RTOS для вбудованих систем. 
 * <a href="https://skynetrt.github.io/skynet/"><b>skynet</b></a> — Skynet OS — мінімалістична імплементація Skynet32 drone swarm coordination протоколу.
 
